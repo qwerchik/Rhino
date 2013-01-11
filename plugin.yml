@@ -1,0 +1,11 @@
+name: Rhino
+authors: [qwerchik, apankov]
+main: qwerchik.rhino.Rhino
+version: 0.0.1 early pre-alpha
+depend: [Vault]
+commands:
+    rhino:
+        aliases: [rh, ro]
+        description: Makes you a Rhino
+        usage: |
+            /<command> - Makes you the Rhino!
