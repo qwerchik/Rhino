@@ -1,5 +1,4 @@
 Rhino
 =====
 
-That plugin turns you to Rhino from Marvel's comics by entering /rhino command
-You get power and features of Rhino in Minecraft
+This is a part of Marvel heroes plugins for Bukkit. Rhino has almost ulimited nevertheless uncontrolled powers of bruteforce destruction.
