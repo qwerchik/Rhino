@@ -1,7 +1,7 @@
 name: Rhino
 authors: [qwerchik, apankov]
 main: qwerchik.rhino.Rhino
-version: 0.1.4 early pre-alpha
+version: 0.1.7 early pre-alpha
 depend: [Vault]
 commands:
     rhino:
